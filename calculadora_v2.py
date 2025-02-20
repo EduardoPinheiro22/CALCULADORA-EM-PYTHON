@@ -56,3 +56,5 @@ while saida != 'n' and saida != 'N':
 
 # Finalizando o programa
 print("Obrigado por usar a calculadora!")
+
+# f
